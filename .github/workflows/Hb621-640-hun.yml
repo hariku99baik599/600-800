@@ -57,9 +57,9 @@ jobs:
       - name: hb629 Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_xQtgdC7SlcFWLgeYZ6ol1IAGDJ0g/ZTlDig5O3W 
       - name: hb630 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_yy1z1VN7TOvLDwb5FOfZj8PoDnFk/RmZLDfMJdM
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_1AONAlGlWbRZ5WXfTvYarlHdzfav/6XdoYBGBip
       - name: hb630 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_yy1z1VN7TOvLDwb5FOfZj8PoDnFk/RmZLDfMJdM
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_1AONAlGlWbRZ5WXfTvYarlHdzfav/6XdoYBGBip
 
       - name: Run hb631 a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_XySCyogAsdgTmu9HELXoC82NwalO/XYzKKAyEXJ
